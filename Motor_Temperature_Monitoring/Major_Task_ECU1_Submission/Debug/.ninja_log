@@ -1,0 +1,134 @@
+# ninja log v5
+3	233	7243581391327429	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Major_Task_ECU1_V3/Debug/Obj/Port_PBcfg.o	f71eb11a00e0ff6d
+3	221	7243936533128036	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Obj/CAN.o	962df4a04c825cc2
+6681	7776	7243421839298554	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Major_Task_ECU1_V3/Debug/Obj/Port.o	457843bc2cd2a4e0
+231	595	7243846362420837	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Obj/MSYST_Prog.o	bc3c43187b085a4a
+2	784	7243570360500940	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Major_Task_ECU1_V3/Debug/Obj/ECU1_App.o	8d33682b68a9331a
+91	240	7243909367609344	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Obj/ECU1_App.o	efa7ab26173814e6
+6736	7186	7243421833418435	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Major_Task_ECU1_V3/Debug/Obj/startup_ewarm.o	54b6b267e6480ad8
+56	267	7243846359185728	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Obj/Dio.o	5b3d66abee70f86c
+2	193	7243582277219273	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Major_Task_ECU1_V3/Debug/Obj/CAN.o	37d90cb1000449cc
+513	656	7243846363740213	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Obj/OS_CFG.o	aeec7533fed018a2
+74	295	7243846359312378	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Obj/Button.o	69cfc293771078ba
+6480	7234	7243421833758467	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Major_Task_ECU1_V3/Debug/Obj/Button.o	e1b44e582cde41d7
+5895	6100	7243421822571727	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Major_Task_ECU1_V3/Debug/Obj/CAN_Cfg.o	3ee6d1dca5357211
+16	147	7243575968181052	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Major_Task_ECU1_V3/Debug/Obj/main.o	e7fa55fe2736e5a4
+279	448	7243846361365127	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Obj/main.o	ad58bf2999a97245
+420	5883	7243421819718426	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Major_Task_ECU1_V3/Debug/Obj/Dio_Lcfg.o	cdfff9e02cb0b244
+2	181	7243510008000578	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Major_Task_ECU1_V3/Debug/Obj/Det.o	3296f2d7f55bab16
+209	6534	7243421826198471	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Major_Task_ECU1_V3/Debug/Obj/Communication.o	dffa8a9492d101c6
+309	578	7243846362520852	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Obj/OS.o	11df709369a41051
+375	6606	7243421826478464	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Major_Task_ECU1_V3/Debug/Obj/Dio.o	f2ead6ee2f0b5c88
+6649	7361	7243421835148406	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Major_Task_ECU1_V3/Debug/Obj/OS.o	2c041298d8c037fe
+6175	6670	7243421827698441	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Major_Task_ECU1_V3/Debug/Obj/OS_CFG.o	16b366d8d00a4f75
+6577	6727	7243421828808435	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Major_Task_ECU1_V3/Debug/Obj/MSYS_cfg.o	7b915a47e1d0cb0d
+6546	7033	7243421831848425	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Major_Task_ECU1_V3/Debug/Obj/MSYST_Prog.o	c0e1551518434644
+202	285	7243582278189304	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Major_Task_ECU1_V3/Debug/Exe/Project_ECU1.out	faa026cc2d4c04ba
+35	145	7243846358650411	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Obj/Dio_Lcfg.o	b569ad5869cab482
+48	211	7243909367348262	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Obj/Communication.o	28981547fde8dc9f
+6	147	7243909366729886	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Obj/CAN_Cfg.o	ece72d14b34b20e0
+20	219	7243846358745994	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Obj/Det.o	b24ead7a171125a9
+357	534	7243846362215744	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Obj/MSYS_cfg.o	e0120c78c3a0225a
+423	621	7243846363089577	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Obj/Port_PBcfg.o	8d0f8f61c9b66645
+462	689	7243846363902777	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Obj/startup_ewarm.o	eba4e2357cbc25dc
+546	1309	7243846370290538	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Obj/Port.o	3b7fc82969f93569
+229	352	7243936534528185	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Exe/Project_ECU1.out	a4234b65e14da38b
+3	247	7243937350541844	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Obj/CAN.o	962df4a04c825cc2
+256	401	7243937352093674	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Exe/Project_ECU1.out	a4234b65e14da38b
+3	345	7243939110194338	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Obj/CAN.o	962df4a04c825cc2
+353	503	7243939111761371	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Exe/Project_ECU1.out	a4234b65e14da38b
+20	121	7243941787037143	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Obj/main.o	ad58bf2999a97245
+3	223	7243941788097998	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Obj/CAN.o	962df4a04c825cc2
+232	319	7243941789111703	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/tnzel v4/Major_Task_ECU1_V4/Debug/Exe/Project_ECU1.out	a4234b65e14da38b
+21	385	7243952720191182	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/CAN_Cfg.o	bbf41be58a1cd873
+395	515	7243952721468654	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/Dio_Lcfg.o	68d8289e98d8fcf2
+54	602	7243952722268447	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/Communication.o	95c2faa338a807e
+74	673	7243952722715860	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/Button.o	2ffea7663fbf8a48
+530	750	7243952723639132	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/ECU1_App.o	c01326dc118e7aa6
+618	826	7243952724527916	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/main.o	fafc851e902daecf
+690	948	7243952724683320	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/OS_CFG.o	529fd2f2c2d8c0e4
+123	982	7243952724819650	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/Det.o	cd656b164a0059b6
+1	1018	7243952724789688	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/CAN.o	f36b6c3c5c200e3d
+99	1089	7243952725858310	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/Dio.o	dc306d7f6a9f90e1
+851	1139	7243952727438563	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/MSYS_cfg.o	de2b7472c5dc9e5d
+1034	1206	7243952728373371	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/Port_PBcfg.o	c2d4a58b993508e3
+1104	1314	7243952729427602	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/startup_ewarm.o	cc9a76010f3d66e6
+963	1360	7243952729888586	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/OS.o	812a7389db2d5b56
+996	1374	7243952729903798	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/MSYST_Prog.o	d6387c4f48043b16
+763	1968	7243952735976476	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/Port.o	1c213ea5a5cf9c70
+1982	2198	7243952738346879	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Exe/Project_ECU1.out	d1e34b4cddaade55
+5	323	7243954180091039	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/CAN.o	f36b6c3c5c200e3d
+336	545	7243954182407144	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Exe/Project_ECU1.out	d1e34b4cddaade55
+3	342	7243964974339420	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/CAN.o	f36b6c3c5c200e3d
+353	979	7243964980776551	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Exe/Project_ECU1.out	d1e34b4cddaade55
+3	240	7243967898572908	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/CAN.o	f36b6c3c5c200e3d
+250	337	7243967899589571	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Exe/Project_ECU1.out	d1e34b4cddaade55
+2	98	7243972457899961	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/Communication.o	95c2faa338a807e
+108	277	7243972459710299	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Exe/Project_ECU1.out	d1e34b4cddaade55
+3	488	7243979339562562	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/CAN.o	f36b6c3c5c200e3d
+501	696	7243979341644059	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Exe/Project_ECU1.out	d1e34b4cddaade55
+13	112	7243981213286346	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/Communication.o	95c2faa338a807e
+2	243	7243981214614881	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/CAN.o	f36b6c3c5c200e3d
+253	387	7243981216104335	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Exe/Project_ECU1.out	d1e34b4cddaade55
+4	260	7243983860907528	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Obj/CAN.o	f36b6c3c5c200e3d
+270	400	7243983862389016	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU1_V5/Debug/Exe/Project_ECU1.out	d1e34b4cddaade55
+19	145	7243991158001601	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU1_V6/Debug/Obj/CAN_LCfg.o	28e6e37d7fe064bc
+3	181	7243991158157002	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU1_V6/Debug/Obj/Button.o	7a676ae57703dbbf
+34	211	7243991158317338	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU1_V6/Debug/Obj/Communication.o	86bd5a31b0a6062e
+62	249	7243991158616623	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU1_V6/Debug/Obj/Dio_Lcfg.o	83f175014ad1e673
+78	291	7243991159369436	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU1_V6/Debug/Obj/main.o	6a573781994cb861
+192	326	7243991159790207	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU1_V6/Debug/Obj/Det.o	3ba7431b5b65281c
+154	361	7243991159989878	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU1_V6/Debug/Obj/Dio.o	b43dce51ce48a9cb
+221	404	7243991160661997	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU1_V6/Debug/Obj/ECU1_App.o	7b9b6dc917797783
+258	430	7243991160774206	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU1_V6/Debug/Obj/OS_LCFG.o	399a921107ef5900
+47	469	7243991160934138	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU1_V6/Debug/Obj/CAN.o	80447ce48efcff00
+301	503	7243991161482061	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU1_V6/Debug/Obj/Port_Lcfg.o	1aa78515442db362
+336	516	7243991161731840	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU1_V6/Debug/Obj/MSYST_Prog.o	6bb31951078d0be7
+414	535	7243991161831835	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU1_V6/Debug/Obj/MSYS_Lcfg.o	fc86b775edc80bd
+479	582	7243991162546995	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU1_V6/Debug/Obj/startup_ewarm.o	11af7c7ea5fe57c8
+440	614	7243991162842557	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU1_V6/Debug/Obj/OS.o	bc375b363636e804
+370	1050	7243991167192078	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU1_V6/Debug/Obj/Port.o	a6f022e48a474309
+1062	1145	7243991168212304	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU1_V6/Debug/Exe/Project_ECU1.out	a0564c5a0714ffe0
+448	894	7244373079715141	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/main.o	677c7ab7591ef481
+467	979	7244373080632677	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/Dio_Lcfg.o	4db59456b2ef5fcd
+456	1028	7244373080981767	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/ECU1_App.o	c345129adfc1588a
+910	1091	7244373081380692	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/Det.o	df0a4218a44cea55
+997	1190	7244373082697197	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/Button.o	1621ba23de53ffd4
+1049	1245	7244373082896635	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/Communication.o	b9a5cde4e78366d1
+1132	1296	7244373083864047	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/CAN_LCfg.o	338d2136b65c4c05
+1208	1342	7244373084292893	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/MSYS_Lcfg.o	72ea68bf0577cc92
+1354	1498	7244373085848736	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/OS_LCFG.o	f9c55414ac2a4571
+1413	1602	7244373086796195	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/Port_Lcfg.o	a62f3c6a6152c618
+1310	1934	7244373089500032	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/MSYST_Prog.o	4385c238179735f4
+1621	1982	7244373089609863	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/startup_ewarm.o	3d1709a0f8dbaa10
+1513	2058	7244373091484738	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/OS.o	37b7a6657e957c9
+1257	2687	7244373097745122	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/Port.o	21b44ca08d9e43b1
+645	1359	7244373467353513	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/CAN.o	75f7bd19cbd03d02
+5	115	7244375286901410	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/Dio_Lcfg.o	4db59456b2ef5fcd
+22	146	7244375287151066	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/Button.o	1621ba23de53ffd4
+4	364	7244376661916376	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/Dio_Lcfg.o	4db59456b2ef5fcd
+14	419	7244376662435310	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/Dio.o	e55aabcce92ad0ea
+21	435	7244376662524723	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/Button.o	1621ba23de53ffd4
+452	1286	7244376670901478	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Exe/Project_ECU1.out	6132b53044b7ef96
+28	176	7244384172680908	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/CAN_LCfg.o	338d2136b65c4c05
+7	273	7244384173628378	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/Communication.o	b9a5cde4e78366d1
+2	307	7244384173638336	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/ECU1_App.o	c345129adfc1588a
+16	422	7244384175363728	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Obj/CAN.o	75f7bd19cbd03d02
+433	502	7244384176183641	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU1_V7/Debug/Exe/Project_ECU1.out	6132b53044b7ef96
+7	217	7244573217658031	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU1_V8/Debug/Obj/CAN_LCfg.o	a9a6c4d5fe2baeec
+11	277	7244573218206593	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU1_V8/Debug/Obj/Communication.o	c3c543a043f3ef89
+15	321	7244573218645393	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU1_V8/Debug/Obj/Button.o	73f995522b0c9a59
+3	386	7244573219273720	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU1_V8/Debug/Obj/CAN.o	70955feebfe327e8
+227	418	7244573219483155	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU1_V8/Debug/Obj/Dio.o	e5f5ce141117b69c
+285	431	7244573219443269	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU1_V8/Debug/Obj/Det.o	bde7841e8b724e68
+396	472	7244573220171321	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU1_V8/Debug/Obj/Dio_Lcfg.o	55c4e5ac5f6d916b
+332	502	7244573220410674	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU1_V8/Debug/Obj/ECU1_App.o	d03ded0e724ae75d
+426	540	7244573220869446	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU1_V8/Debug/Obj/main.o	1d4b3a2cce6874c6
+510	589	7244573221368122	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU1_V8/Debug/Obj/Port_Lcfg.o	ed4f61473c3c4483
+550	722	7244573222710774	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU1_V8/Debug/Obj/OS_LCFG.o	cda1cfe7e4d785ff
+597	814	7244573223621085	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU1_V8/Debug/Obj/MSYS_Lcfg.o	7c113badd82d0be9
+481	889	7244573223611088	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU1_V8/Debug/Obj/OS.o	28e259e547b3787a
+440	919	7244573224643480	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU1_V8/Debug/Obj/MSYST_Prog.o	3b091f667e602b49
+826	1033	7244573225830751	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU1_V8/Debug/Obj/startup_ewarm.o	a55e2c933ce47855
+731	1476	7244573230225236	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU1_V8/Debug/Obj/Port.o	9b1cfe1c003e0566
+1486	1611	7244573231601380	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU1_V8/Debug/Exe/Project_ECU1.out	c157a2d4116466e6

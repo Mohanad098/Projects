@@ -1,0 +1,357 @@
+###############################################################################
+#
+# IAR ELF Linker V9.30.1.335/W64 for ARM                  16/Dec/2023  21:15:23
+# Copyright 2007-2022 IAR Systems AB.
+#
+#    Output file  =
+#        D:\Ain Shams University\Senior 2\Fall 23 (Semester 1)\MCT422
+#        Automotive Embedded Networking\Major Task\Version 8\Version
+#        8\Major_Task_ECU1_V8\Debug\Exe\Project_ECU1.out
+#    Map file     =
+#        D:\Ain Shams University\Senior 2\Fall 23 (Semester 1)\MCT422
+#        Automotive Embedded Networking\Major Task\Version 8\Version
+#        8\Major_Task_ECU1_V8\Debug\List\Project_ECU1.map
+#    Command line =
+#        -f "D:\Ain Shams University\Senior 2\Fall 23 (Semester 1)\MCT422
+#        Automotive Embedded Networking\Major Task\Version 8\Version
+#        8\Major_Task_ECU1_V8\Debug\Exe\Project_ECU1.out.rsp" ("D:\Ain Shams
+#        University\Senior 2\Fall 23 (Semester 1)\MCT422 Automotive Embedded
+#        Networking\Major Task\Version 8\Version
+#        8\Major_Task_ECU1_V8\Debug\Obj\Button.o" "D:\Ain Shams
+#        University\Senior 2\Fall 23 (Semester 1)\MCT422 Automotive Embedded
+#        Networking\Major Task\Version 8\Version
+#        8\Major_Task_ECU1_V8\Debug\Obj\CAN.o" "D:\Ain Shams University\Senior
+#        2\Fall 23 (Semester 1)\MCT422 Automotive Embedded Networking\Major
+#        Task\Version 8\Version 8\Major_Task_ECU1_V8\Debug\Obj\CAN_LCfg.o"
+#        "D:\Ain Shams University\Senior 2\Fall 23 (Semester 1)\MCT422
+#        Automotive Embedded Networking\Major Task\Version 8\Version
+#        8\Major_Task_ECU1_V8\Debug\Obj\Communication.o" "D:\Ain Shams
+#        University\Senior 2\Fall 23 (Semester 1)\MCT422 Automotive Embedded
+#        Networking\Major Task\Version 8\Version
+#        8\Major_Task_ECU1_V8\Debug\Obj\Det.o" "D:\Ain Shams University\Senior
+#        2\Fall 23 (Semester 1)\MCT422 Automotive Embedded Networking\Major
+#        Task\Version 8\Version 8\Major_Task_ECU1_V8\Debug\Obj\Dio.o" "D:\Ain
+#        Shams University\Senior 2\Fall 23 (Semester 1)\MCT422 Automotive
+#        Embedded Networking\Major Task\Version 8\Version
+#        8\Major_Task_ECU1_V8\Debug\Obj\Dio_Lcfg.o" "D:\Ain Shams
+#        University\Senior 2\Fall 23 (Semester 1)\MCT422 Automotive Embedded
+#        Networking\Major Task\Version 8\Version
+#        8\Major_Task_ECU1_V8\Debug\Obj\ECU1_App.o" "D:\Ain Shams
+#        University\Senior 2\Fall 23 (Semester 1)\MCT422 Automotive Embedded
+#        Networking\Major Task\Version 8\Version
+#        8\Major_Task_ECU1_V8\Debug\Obj\main.o" "D:\Ain Shams University\Senior
+#        2\Fall 23 (Semester 1)\MCT422 Automotive Embedded Networking\Major
+#        Task\Version 8\Version 8\Major_Task_ECU1_V8\Debug\Obj\MSYS_Lcfg.o"
+#        "D:\Ain Shams University\Senior 2\Fall 23 (Semester 1)\MCT422
+#        Automotive Embedded Networking\Major Task\Version 8\Version
+#        8\Major_Task_ECU1_V8\Debug\Obj\MSYST_Prog.o" "D:\Ain Shams
+#        University\Senior 2\Fall 23 (Semester 1)\MCT422 Automotive Embedded
+#        Networking\Major Task\Version 8\Version
+#        8\Major_Task_ECU1_V8\Debug\Obj\OS.o" "D:\Ain Shams University\Senior
+#        2\Fall 23 (Semester 1)\MCT422 Automotive Embedded Networking\Major
+#        Task\Version 8\Version 8\Major_Task_ECU1_V8\Debug\Obj\OS_LCFG.o"
+#        "D:\Ain Shams University\Senior 2\Fall 23 (Semester 1)\MCT422
+#        Automotive Embedded Networking\Major Task\Version 8\Version
+#        8\Major_Task_ECU1_V8\Debug\Obj\Port.o" "D:\Ain Shams University\Senior
+#        2\Fall 23 (Semester 1)\MCT422 Automotive Embedded Networking\Major
+#        Task\Version 8\Version 8\Major_Task_ECU1_V8\Debug\Obj\Port_Lcfg.o"
+#        "D:\Ain Shams University\Senior 2\Fall 23 (Semester 1)\MCT422
+#        Automotive Embedded Networking\Major Task\Version 8\Version
+#        8\Major_Task_ECU1_V8\Debug\Obj\startup_ewarm.o" --no_out_extension -o
+#        "D:\Ain Shams University\Senior 2\Fall 23 (Semester 1)\MCT422
+#        Automotive Embedded Networking\Major Task\Version 8\Version
+#        8\Major_Task_ECU1_V8\Debug\Exe\Project_ECU1.out" --redirect
+#        _Printf=_PrintfFullNoMb --redirect _Scanf=_ScanfFullNoMb --map "D:\Ain
+#        Shams University\Senior 2\Fall 23 (Semester 1)\MCT422 Automotive
+#        Embedded Networking\Major Task\Version 8\Version
+#        8\Major_Task_ECU1_V8\Debug\List\Project_ECU1.map" --config "C:\Program
+#        Files\IAR Systems\Embedded Workbench
+#        9.1\arm/config/linker/TexasInstruments/TM4C123GH6.icf" --semihosting
+#        C:\ti\TivaWare_C_Series-2.2.0.295\driverlib\ewarm\Exe\driverlib.a
+#        --entry __iar_program_start --vfe --text_out locale --cpu=Cortex-M4
+#        --fpu=VFPv4_sp)
+#
+###############################################################################
+
+*******************************************************************************
+*** RUNTIME MODEL ATTRIBUTES
+***
+
+CppFlavor       = *
+__CPP_Runtime   = 1
+__SystemLibrary = DLib
+__dlib_version  = 6
+
+
+*******************************************************************************
+*** HEAP SELECTION
+***
+
+The basic heap was selected because --advanced_heap
+was not specified and the application did not appear to
+be primarily optimized for speed.
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A0":  place at address 0x0 { ro section .intvec };
+"P1":  place in [from 0x0 to 0x3'ffff] { ro };
+define block CSTACK with size = 4K, alignment = 8 { };
+define block HEAP with size = 8K, alignment = 8 { };
+"P2":  place in [from 0x2000'0000 to 0x2000'7fff] {
+          rw, block CSTACK, block HEAP };
+do not initialize { rw section .noinit };
+initialize by copy { rw };
+
+  Section            Kind         Address    Size  Object
+  -------            ----         -------    ----  ------
+"A0":                                       0x26c
+  .intvec            const            0x0   0x26c  startup_ewarm.o [1]
+                                  - 0x26c   0x26c
+
+"P1":                                      0x1f19
+  .text              ro code        0x26c  0x125a  Port.o [1]
+  .text              ro code       0x14c6     0x2  Det.o [1]
+  .text              ro code       0x14c8    0x24  ABIassert.o [5]
+  .text              ro code       0x14ec     0x6  abort.o [2]
+  .text              ro code       0x14f2    0x3a  packbits_init_single.o [4]
+  .text              ro code       0x152c    0x14  exit.o [5]
+  .text              ro code       0x1540   0x2e6  CAN.o [1]
+  .text              ro code       0x1828   0x1e0  OS.o [1]
+  .text              ro code       0x1a08    0x7c  MSYST_Prog.o [1]
+  .text              ro code       0x1a84   0x168  ECU1_App.o [1]
+  .text              ro code       0x1bec    0x28  Communication.o [1]
+  .text              ro code       0x1c14    0x18  Button.o [1]
+  .text              ro code       0x1c2c    0xc0  Dio.o [1]
+  .rodata            const         0x1cec   0x160  Port_Lcfg.o [1]
+  .rodata            const         0x1e4c    0x98  Port.o [1]
+  .rodata            const         0x1ee4    0x94  CAN.o [1]
+  .rodata            const         0x1f78    0x94  OS.o [1]
+  .text              ro code       0x200c    0x28  data_init.o [4]
+  .text              ro code       0x2034    0x22  fpinit_M.o [3]
+  .iar.init_table    const         0x2058    0x10  - Linker created -
+  .text              ro code       0x2068    0x1e  startup_ewarm.o [1]
+  .text              ro code       0x2088    0x1c  cstartup_M.o [4]
+  .text              ro code       0x20a4    0x1e  cmain.o [4]
+  .text              ro code       0x20c2     0x4  low_level_init.o [2]
+  .text              ro code       0x20c8    0x18  main.o [1]
+  .text              ro code       0x20e0     0x4  exit.o [2]
+  .text              ro code       0x20e4     0xa  cexit.o [4]
+  .rodata            const         0x20f0    0x14  CAN.o [1]
+  .rodata            const         0x2104    0x14  Port.o [1]
+  .rodata            const         0x2118    0x10  OS.o [1]
+  .rodata            const         0x2128    0x10  OS.o [1]
+  .rodata            const         0x2138     0xc  CAN_LCfg.o [1]
+  .rodata            const         0x2144     0xc  Dio_Lcfg.o [1]
+  .rodata            const         0x2150     0xc  MSYS_Lcfg.o [1]
+  .rodata            const         0x215c     0x8  ECU1_App.o [1]
+  .rodata            const         0x2164     0x0  packbits_init_single.o [4]
+  Initializer bytes  const         0x2164    0x21  <for P2-1>
+                                 - 0x2185  0x1f19
+
+"P2", part 1 of 2:                           0x58
+  P2-1                        0x2000'0000    0x58  <Init block>
+    .data            inited   0x2000'0000     0x4  Dio.o [1]
+    .data            inited   0x2000'0004    0x18  OS_LCFG.o [1]
+    .bss             inited   0x2000'001c     0x4  CAN.o [1]
+    .bss             inited   0x2000'0020     0x4  Dio.o [1]
+    .bss             inited   0x2000'0024     0x4  MSYST_Prog.o [1]
+    .bss             inited   0x2000'0028    0x18  OS.o [1]
+    .bss             inited   0x2000'0040     0x8  OS.o [1]
+    .bss             inited   0x2000'0048     0x4  OS.o [1]
+    .bss             inited   0x2000'004c     0x4  Port.o [1]
+    .data            inited   0x2000'0050     0x1  CAN.o [1]
+    .bss             inited   0x2000'0051     0x1  CAN.o [1]
+    .bss             inited   0x2000'0052     0x1  ECU1_App.o [1]
+    .bss             inited   0x2000'0053     0x1  ECU1_App.o [1]
+    .bss             inited   0x2000'0054     0x1  ECU1_App.o [1]
+    .bss             inited   0x2000'0055     0x1  ECU1_App.o [1]
+    .bss             inited   0x2000'0056     0x1  OS.o [1]
+    .bss             inited   0x2000'0057     0x1  Port.o [1]
+                            - 0x2000'0058    0x58
+
+"P2", part 2 of 2:                          0x200
+  .noinit            uninit   0x2000'0058   0x200  startup_ewarm.o [1]
+                            - 0x2000'0258   0x200
+
+Unused ranges:
+
+         From           To      Size
+         ----           --      ----
+       0x2185     0x3'ffff  0x3'de7b
+  0x2000'0258  0x2000'7fff    0x7da8
+
+
+*******************************************************************************
+*** INIT TABLE
+***
+
+          Address      Size
+          -------      ----
+Copy/packbits (__iar_packbits_init_single3)
+    1 source range, total size 0x21 (37% of destination):
+               0x2164  0x21
+    1 destination range, total size 0x58:
+          0x2000'0000  0x58
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module                  ro code  ro data  rw data
+    ------                  -------  -------  -------
+command line/config:
+    -------------------------------------------------
+    Total:
+
+D:\Ain Shams University\Senior 2\Fall 23 (Semester 1)\MCT422 Automotive Embedded Networking\Major Task\Version 8\Version 8\Major_Task_ECU1_V8\Debug\Obj: [1]
+    Button.o                     24
+    CAN.o                       742      170        6
+    CAN_LCfg.o                            12
+    Communication.o              40
+    Det.o                         2
+    Dio.o                       192        2        8
+    Dio_Lcfg.o                            12
+    ECU1_App.o                  360       10        4
+    MSYST_Prog.o                124        2        4
+    MSYS_Lcfg.o                           12
+    OS.o                        480      193       37
+    OS_LCFG.o                              9       24
+    Port.o                    4'698      175        5
+    Port_Lcfg.o                          352
+    main.o                       24
+    startup_ewarm.o              30      620      512
+    -------------------------------------------------
+    Total:                    6'716    1'569      600
+
+dl7M_tln.a: [2]
+    abort.o                       6
+    exit.o                        4
+    low_level_init.o              4
+    -------------------------------------------------
+    Total:                       14
+
+m7M_tls.a: [3]
+    fpinit_M.o                   34
+    -------------------------------------------------
+    Total:                       34
+
+rt7M_tl.a: [4]
+    cexit.o                      10
+    cmain.o                      30
+    cstartup_M.o                 28
+    data_init.o                  40
+    packbits_init_single.o       58
+    -------------------------------------------------
+    Total:                      166
+
+shb_l.a: [5]
+    ABIassert.o                  36
+    exit.o                       20
+    -------------------------------------------------
+    Total:                       56
+
+    Gaps                          6        4
+    Linker created                        16
+-----------------------------------------------------
+    Grand Total:              6'992    1'589      600
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                       Address    Size  Type      Object
+-----                       -------    ----  ----      ------
+.iar.init_table$$Base        0x2058           --   Gb  - Linker created -
+.iar.init_table$$Limit       0x2068           --   Gb  - Linker created -
+?main                        0x20a5          Code  Gb  cmain.o [4]
+App_Init                     0x1a85    0x16  Code  Gb  ECU1_App.o [1]
+Button1_State                0x1c15     0xc  Code  Gb  Button.o [1]
+Button2_State                0x1c21     0xc  Code  Gb  Button.o [1]
+CAN_Init                     0x1541    0xd8  Code  Gb  CAN.o [1]
+CAN_Transmit_Data            0x1783    0x6c  Code  Gb  CAN.o [1]
+CAN_Transmit_Set             0x1711    0x72  Code  Gb  CAN.o [1]
+Can_ErrorState               0x1811    0x16  Code  Gb  CAN.o [1]
+Can_Initialization      0x2000'0051     0x1  Data  Lc  CAN.o [1]
+Can_SetControllerMode        0x1619    0xf8  Code  Gb  CAN.o [1]
+Can_Status              0x2000'0050     0x1  Data  Lc  CAN.o [1]
+Can_configuration            0x2138     0xc  Data  Gb  CAN_LCfg.o [1]
+Comm_init                    0x1bed    0x12  Code  Gb  Communication.o [1]
+Comm_transmit_data           0x1c0d     0x8  Code  Gb  Communication.o [1]
+Comm_transmit_set            0x1c05     0x8  Code  Gb  Communication.o [1]
+Config                       0x2150     0xc  Data  Gb  MSYS_Lcfg.o [1]
+ConfigPtr               0x2000'0000     0x4  Data  Lc  Dio.o [1]
+Configuration           0x2000'001c     0x4  Data  Lc  CAN.o [1]
+Det_ReportError              0x14c7     0x2  Code  Gb  Det.o [1]
+Dio_Configuration            0x2144     0xc  Data  Gb  Dio_Lcfg.o [1]
+Dio_PortChannels        0x2000'0020     0x4  Data  Lc  Dio.o [1]
+Dio_ReadChannel              0x1c2d    0xa0  Code  Gb  Dio.o [1]
+Error_State                  0x19cb    0x14  Code  Gb  OS.o [1]
+Execution_Time          0x2000'0056     0x1  Data  Gb  OS.o [1]
+FaultISR                     0x2083     0x2  Code  Lc  startup_ewarm.o [1]
+IntDefaultHandler            0x2085     0x2  Code  Lc  startup_ewarm.o [1]
+MSYS_CallBack                0x1a5d     0x6  Code  Gb  MSYST_Prog.o [1]
+MSYS_voidInit                0x1a09    0x54  Code  Gb  MSYST_Prog.o [1]
+NmiSR                        0x2081     0x2  Code  Lc  startup_ewarm.o [1]
+Port_Configuration           0x1cec   0x160  Data  Gb  Port_Lcfg.o [1]
+Port_ErrorState              0x14b1    0x16  Code  Gb  Port.o [1]
+Port_Init                     0x26d  0x1240  Code  Gb  Port.o [1]
+Port_PortChannels       0x2000'004c     0x4  Data  Lc  Port.o [1]
+Port_Status             0x2000'0057     0x1  Data  Lc  Port.o [1]
+Ptr_TasksCfg            0x2000'0048     0x4  Data  Lc  OS.o [1]
+RTOS_CreateTask              0x1829   0x116  Code  Gb  OS.o [1]
+RTOS_Init                    0x193f    0x12  Code  Gb  OS.o [1]
+Region$$Table$$Base          0x2058           --   Gb  - Linker created -
+Region$$Table$$Limit         0x2068           --   Gb  - Linker created -
+ResetISR                     0x2069    0x12  Code  Gb  startup_ewarm.o [1]
+SYST_CallBack           0x2000'0024     0x4  Data  Lc  MSYST_Prog.o [1]
+Scheduler                    0x1951    0x7a  Code  Gb  OS.o [1]
+SystemTasks             0x2000'0028    0x18  Data  Gb  OS.o [1]
+Systick_Handler              0x1a63     0xa  Code  Gb  MSYST_Prog.o [1]
+Task1_Button                 0x1a9b    0x88  Code  Gb  ECU1_App.o [1]
+Task1_Button::button_counter
+                        0x2000'0053     0x1  Data  Lc  ECU1_App.o [1]
+Task2_CAN                    0x1b23    0x70  Code  Gb  ECU1_App.o [1]
+Task3_IdleCheck              0x1b93    0x40  Code  Gb  ECU1_App.o [1]
+Task3_IdleCheck::check  0x2000'0055     0x1  Data  Lc  ECU1_App.o [1]
+Task3_IdleCheck::counter
+                        0x2000'0054     0x1  Data  Lc  ECU1_App.o [1]
+Task_CFG                0x2000'0004    0x18  Data  Gb  OS_LCFG.o [1]
+Timer_Callback               0x19e1     0x8  Code  Gb  OS.o [1]
+Timing                  0x2000'0040     0x8  Data  Gb  OS.o [1]
+__aeabi_assert               0x14c9    0x24  Code  Gb  ABIassert.o [5]
+__cmain                      0x20a5          Code  Gb  cmain.o [4]
+__exit                       0x152d    0x14  Code  Gb  exit.o [5]
+__iar_data_init3             0x200d    0x28  Code  Gb  data_init.o [4]
+__iar_init_vfp               0x2035          Code  Gb  fpinit_M.o [3]
+__iar_packbits_init_single3
+                             0x14f3    0x3a  Code  Gb  packbits_init_single.o [4]
+__iar_program_start          0x2089          Code  Gb  cstartup_M.o [4]
+__low_level_init             0x20c3     0x4  Code  Gb  low_level_init.o [2]
+__vector_table                  0x0   0x26c  Data  Gb  startup_ewarm.o [1]
+_call_main                   0x20b1          Code  Gb  cmain.o [4]
+_exit                        0x20e5          Code  Gb  cexit.o [4]
+abort                        0x14ed     0x6  Code  Gb  abort.o [2]
+button_state            0x2000'0052     0x1  Data  Gb  ECU1_App.o [1]
+exit                         0x20e1     0x4  Code  Gb  exit.o [2]
+main                         0x20c9    0x18  Code  Gb  main.o [1]
+pui32Stack              0x2000'0058   0x200  Data  Lc  startup_ewarm.o [1]
+
+
+[1] = D:\Ain Shams University\Senior 2\Fall 23 (Semester 1)\MCT422 Automotive Embedded Networking\Major Task\Version 8\Version 8\Major_Task_ECU1_V8\Debug\Obj
+[2] = dl7M_tln.a
+[3] = m7M_tls.a
+[4] = rt7M_tl.a
+[5] = shb_l.a
+
+  6'992 bytes of readonly  code memory
+  1'589 bytes of readonly  data memory
+    600 bytes of readwrite data memory
+
+Errors: none
+Warnings: none

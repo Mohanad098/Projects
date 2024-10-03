@@ -1,0 +1,114 @@
+# ninja log v5
+7	104	6939258003865416	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/lcd.pbi	767d9a7786fa144c
+196	551	6932784600000000	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/startup_ewarm.xcl	acffa38330528e8c
+486	623	6932784600000000	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/main.xcl	866d79fe087cf3ed
+6	184	6932784600000000	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/keypad.xcl	f7ef68422366a1b3
+10	112	6939258003885365	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/DIO.pbi	1c3c66436a5a65af
+5	63	6939317536898521	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/calculator.pbi	26c52413bf0c49ab
+2	138	6939401737439430	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/main.pbi	653782905d189526
+14	414	6932784600000000	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/lcd.xcl	438083922fa66d7b
+1	226	6932784600000000	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/DIO.xcl	4264e49197f625ea
+10	373	6932784600000000	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/calculator.xcl	1f6eac0887eb2f40
+428	609	6932784600000000	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/write.xcl	42943f78da40a920
+236	538	6932784600000000	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/Stopwatch_Func.xcl	e281a67c8b18a479
+773	838	6932784609444349	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/write.pbi	53498e987b4e4b0b
+1	163	6939304009894550	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/startup_ewarm.pbi	77f0fdc30361d238
+1	122	6939335207594607	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/keypad.pbi	4432a14e811277c8
+5	160	6939258004423923	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/Stopwatch_Func.pbi	c520ddca34e78f4e
+128	196	6939335208342598	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part0.pbi	868ab605b655cf9b
+2	100	6939408280391814	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/Timer0.pbi	f07681cca1da5e7b
+108	172	6939408281109921	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part2.pbi	ec1a19ee5a98af69
+144	206	6939401738117613	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part1.pbi	2f539936003cb978
+182	285	6939408282245138	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbd	d673c58877c3b60d
+295	1363	6939408292018533	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbw	ec32d38b3ff7eaac
+2	138	6933460170000000	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/Timer0.xcl	945d5969d9d6ff43
+9	129	6939410464146176	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/Timer0.pbi	f07681cca1da5e7b
+2	144	6939410464295765	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/main.pbi	653782905d189526
+135	204	6939410464918888	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part2.pbi	ec1a19ee5a98af69
+150	213	6939410464988702	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part1.pbi	2f539936003cb978
+220	322	6939410466085769	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbd	d673c58877c3b60d
+331	1346	6939410475463694	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbw	ec32d38b3ff7eaac
+1	114	6939411182891090	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/main.pbi	653782905d189526
+120	177	6939411183517223	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part1.pbi	2f539936003cb978
+185	288	6939411184633797	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbd	d673c58877c3b60d
+298	1640	6939411194226994	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbw	ec32d38b3ff7eaac
+2	227	6939413013961490	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/Timer0.pbi	f07681cca1da5e7b
+234	300	6939413014689946	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part2.pbi	ec1a19ee5a98af69
+308	410	6939413015796584	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbd	d673c58877c3b60d
+1	1060	6939413086892279	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbw	ec32d38b3ff7eaac
+2	112	6939426698013029	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/main.pbi	653782905d189526
+118	174	6939426698641559	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part1.pbi	2f539936003cb978
+182	285	6939426699747002	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbd	d673c58877c3b60d
+296	1238	6939426708700744	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbw	ec32d38b3ff7eaac
+1	118	6939427113641287	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/main.pbi	653782905d189526
+124	185	6939427114309566	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part1.pbi	2f539936003cb978
+194	313	6939427115585669	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbd	d673c58877c3b60d
+322	1365	6939427125277017	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbw	ec32d38b3ff7eaac
+2	113	6939428739097174	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/main.pbi	653782905d189526
+121	179	6939428739771462	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part1.pbi	2f539936003cb978
+191	295	6939428740925442	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbd	d673c58877c3b60d
+302	1269	6939428750140117	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbw	ec32d38b3ff7eaac
+1	111	6939428802417616	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/main.pbi	653782905d189526
+119	175	6939428803055909	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part1.pbi	2f539936003cb978
+182	284	6939428804142561	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbd	d673c58877c3b60d
+293	1279	6939428813231139	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbw	ec32d38b3ff7eaac
+1	121	6939430276212499	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/main.pbi	653782905d189526
+128	188	6939430276901155	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part1.pbi	2f539936003cb978
+196	317	6939430278187603	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbd	d673c58877c3b60d
+327	1503	6939430289248305	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbw	ec32d38b3ff7eaac
+2	100	6939432607681681	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/Timer0.pbi	f07681cca1da5e7b
+108	172	6939432608416695	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part2.pbi	ec1a19ee5a98af69
+181	283	6939432609524179	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbd	d673c58877c3b60d
+293	1327	6939432618704982	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbw	ec32d38b3ff7eaac
+2	114	6939432873962072	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/main.pbi	653782905d189526
+119	177	6939432874600366	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part1.pbi	2f539936003cb978
+184	289	6939432875723754	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbd	d673c58877c3b60d
+297	1303	6939432884916451	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbw	ec32d38b3ff7eaac
+2	225	6939433140308915	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/main.pbi	653782905d189526
+230	291	6939433140977127	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part1.pbi	2f539936003cb978
+299	415	6939433142213819	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbd	d673c58877c3b60d
+422	1455	6939433151760898	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbw	ec32d38b3ff7eaac
+1	103	6939435874040929	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/Timer0.pbi	f07681cca1da5e7b
+109	174	6939435874742126	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part2.pbi	ec1a19ee5a98af69
+181	284	6939435875848658	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbd	d673c58877c3b60d
+1	972	6939435942998094	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbw	ec32d38b3ff7eaac
+1	107	6939436750868575	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/Timer0.pbi	f07681cca1da5e7b
+115	178	6939436751587084	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part2.pbi	ec1a19ee5a98af69
+185	286	6939436752665810	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbd	d673c58877c3b60d
+293	1290	6939436761962806	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbw	ec32d38b3ff7eaac
+2	113	6939442019911702	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/main.pbi	653782905d189526
+119	176	6939442020549994	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part1.pbi	2f539936003cb978
+186	288	6939442021676971	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbd	d673c58877c3b60d
+296	1255	6939442030514524	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbw	ec32d38b3ff7eaac
+3	162	6939470159118177	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/lcd.pbi	767d9a7786fa144c
+13	222	6939470159736116	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/Stopwatch_Func.pbi	c520ddca34e78f4e
+18	231	6939470159805931	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/keypad.pbi	4432a14e811277c8
+9	311	6939470160623760	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/main.pbi	653782905d189526
+239	351	6939470161042598	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part0.pbi	868ab605b655cf9b
+322	416	6939470161690864	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part1.pbi	2f539936003cb978
+173	431	6939470161810572	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/Timer0.pbi	f07681cca1da5e7b
+439	538	6939470162917578	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project_part2.pbi	ec1a19ee5a98af69
+551	697	6939470164503830	D:/Ain Shams University/Senior 1/CSE211 Introduction to Embedded Systems/Major Task/Stopwatch_V3/Stopwatch_V3/Debug/BrowseInfo/project.pbd	d673c58877c3b60d
+1	2316	6939606150000000	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/DIO.xcl	270cf38d5d5ee80f
+271	3212	6939606160000000	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/keypad.xcl	a93b8bf00fd97753
+564	4433	6939606170000000	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/Stopwatch_Func.xcl	2f96016adb72a6ff
+4443	4743	6939606178764858	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/DIO.pbi	a96e9404270b8de7
+4748	4947	6939606180822545	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/keypad.pbi	4ec192cb2e22bb7d
+424	5412	6939606180000000	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/lcd.xcl	b847d63508b49590
+5422	5527	6939606186642354	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/lcd.pbi	8545613b2df8ff54
+5531	5841	6939606189756862	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/Stopwatch_Func.pbi	2a48b4226331093f
+131	6723	6939606190000000	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/calculator.xcl	da86c30dffdcebee
+6929	7183	6939606203198115	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/calculator.pbi	ec2f4975fdfc09e0
+7189	7417	6939606205551829	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/project_part0.pbi	bf3e82a043d17ae3
+712	7799	6939606200000000	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/main.xcl	67f16c5a6eb8132d
+7812	8003	6939606211364823	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/main.pbi	34db2f3a4fc193a4
+2332	8687	6939606210000000	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/startup_ewarm.xcl	9d87f728c0e2dc1d
+8699	8789	6939606219266124	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/startup_ewarm.pbi	84770f316c7d0c77
+8793	8906	6939606220441876	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/project_part1.pbi	d11957bed46f2a70
+3228	9405	6939606220000000	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/Timer0.xcl	51e3119f7f901455
+9416	9567	6939606227037497	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/Timer0.pbi	cf8c2b275d0c4587
+4953	10096	6939606230000000	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/write.xcl	48e3f91ae6969739
+10107	10198	6939606233357136	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/write.pbi	a627aaf1822dbd97
+10213	10407	6939606235394526	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/project_part2.pbi	11657d727330da5f
+10413	10631	6939606237681414	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/project.pbd	afc58d007f38df03
+10640	11953	6939606250524072	D:/MCTA Senior1 1st semester/CSE211 Intro to Embedded/Stopwatch_V3/Debug/BrowseInfo/project.pbw	682fc545867b8369

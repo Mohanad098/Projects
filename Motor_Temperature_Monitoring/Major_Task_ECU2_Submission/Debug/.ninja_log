@@ -1,0 +1,283 @@
+# ninja log v5
+16	318	7242840882364335	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/cstartup_M.o	3157eb87f05f6cb6
+285	383	7242840882882956	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/main.o	f36e792bd81ef96c
+635	860	7242840887783996	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/Port_Lcfg.o	1e85f4ddf949b223
+326	451	7242840883620999	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/LED.o	6d753dcdbeffa6eb
+4	982	7242740289433384	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/ECU1_App.o	104279bf6625079b
+366	472	7242840883670853	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/MSYS_cfg.o	3fa88ec1aa0e92f0
+393	505	7242840884269285	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/Dio_Lcfg.o	9148ef4a8db96245
+992	1458	7242740295181894	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/Button.o	eb58b96e65ab42db
+9	277	7242840881965401	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/Dio.o	5f2805b6ef2f5e79
+21	358	7242840882773243	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/Det.o	6107e75cf94780cb
+514	578	7242840885047155	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/OS_CFG.o	9f35b3fb068f943e
+480	817	7242840887385101	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/MSYST_Prog.o	efcfc697e4bf0251
+460	627	7242840885446102	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/OS.o	c0b745873530b17c
+585	1433	7242840893518665	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/Port.o	96747ed39f4e8ad0
+1440	2704	7242840906292210	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Exe/Project_ECU2.out	ae922e0700137fa5
+447	839	7242840887584530	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/ECU2_App.o	715c91675eeec85f
+2	438	7242840883521247	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/CAN.o	72c06ecb4baebacd
+2	200	7242842771228225	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/CAN.o	72c06ecb4baebacd
+209	280	7242842772026510	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Exe/Project_ECU2.out	ae922e0700137fa5
+3	359	7242861436405890	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/ECU2_App.o	ea86b46e27494696
+13	402	7242861436695126	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/main.o	4c2d21a9f1abc3c6
+372	486	7242861437712399	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/MSYS_cfg.o	d1dbfea4e0f304c7
+61	534	7242861438071422	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/LED.o	59eecfd048dd79c
+415	575	7242861438380597	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/Dio_Lcfg.o	3af1086aa098db50
+499	642	7242861439228334	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/Det.o	778c9aa7df160c80
+18	671	7242861439298147	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/MSYST_Prog.o	43850b7b7ae8ca17
+657	760	7242861440504916	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/OS_CFG.o	96b5224b6b92a5d4
+548	782	7242861440554791	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/Dio.o	5db9acf8aaa7ac39
+775	896	7242861441771526	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/Port_Lcfg.o	ba3b40126dceb7e7
+795	962	7242861442459697	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/startup_ewarm.o	298936bca3b802ce
+586	1013	7242861442998248	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/CAN.o	c329ee4a46bafb27
+909	1109	7242861443975627	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/OS.o	53db0db2196ac036
+685	2000	7242861452862373	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Obj/Port.o	59f0adbab0af79ca
+2013	2138	7242861454280642	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V1/Debug/Exe/Project_ECU2.out	b3c03f81624f238a
+19	348	7242984375759289	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/CAN_Cfg.o	ed44aae2ca338c0c
+4	407	7242984375888920	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/Det.o	45c2b6a988a288a0
+13	441	7242984376397582	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/Dio.o	d51a7f506f2a3a18
+364	536	7242984377578927	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/MSYS_cfg.o	3159b7b1258669e3
+418	641	7242984377738511	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/main.o	b19dcab368c33dcd
+452	688	7242984378319623	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/LED.o	fc958bf09b91d404
+501	754	7242984379585841	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/Dio_Lcfg.o	66ae9c9dcce953aa
+547	791	7242984379883653	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/ECU2_App.o	1298de9fb5ed129a
+663	833	7242984380642860	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/Port_Lcfg.o	ed6096b6329bb03d
+700	878	7242984380911482	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/startup_ewarm.o	223165683eea8fad
+890	968	7242984382002234	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/OS_CFG.o	453533167c87cc6f
+844	1001	7242984382301242	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/OS.o	25d16c107ec2e08e
+801	1010	7242984382341151	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/MSYST_Prog.o	b08e21fa07f89e20
+763	1545	7242984387746137	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/Port.o	2d9f8111a48407dd
+2	677	7243006826006191	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/CAN.o	54768cf6ce44e615
+3	328	7243011061505627	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/CAN.o	54768cf6ce44e615
+5	396	7243027628175848	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/CAN.o	54768cf6ce44e615
+2	392	7243070978719499	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/CAN.o	54768cf6ce44e615
+3	98	7243071657090963	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/ECU2_App.o	1298de9fb5ed129a
+4	115	7243071877717205	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/Communication.o	b1a5c24e67cae103
+27	397	7243076516257148	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/CAN_Cfg.o	ed44aae2ca338c0c
+410	533	7243076517756673	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/Port_Lcfg.o	ed6096b6329bb03d
+4	581	7243076518175630	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/CAN.o	54768cf6ce44e615
+3	119	7243077978517272	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/CAN_Cfg.o	ed44aae2ca338c0c
+3	117	7243078323976783	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/Communication.o	b1a5c24e67cae103
+3	105	7243078445176455	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/ECU2_App.o	1298de9fb5ed129a
+117	201	7243078446128997	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Exe/Project_ECU2.out	b6971122cf58d00
+3579	4056	7243081573775795	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/OS_CFG.o	453533167c87cc6f
+3	4098	7243081574154676	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/CAN_Cfg.o	ed44aae2ca338c0c
+3569	4112	7243081573835777	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/main.o	b19dcab368c33dcd
+3574	4142	7243081574778318	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/ECU2_App.o	1298de9fb5ed129a
+4068	4232	7243081575762044	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/OS.o	25d16c107ec2e08e
+12	126	7243083093387915	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/MSYS_cfg.o	3159b7b1258669e3
+5	195	7243083094134983	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/OS.o	25d16c107ec2e08e
+19	281	7243083094949301	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/MSYST_Prog.o	b08e21fa07f89e20
+9	116	7243083783959781	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/main.o	b19dcab368c33dcd
+3	137	7243083784171153	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/ECU2_App.o	1298de9fb5ed129a
+21	191	7243083784778023	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/OS.o	25d16c107ec2e08e
+18	153	7243085041210530	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/main.o	b19dcab368c33dcd
+5	191	7243085041689243	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/ECU2_App.o	1298de9fb5ed129a
+57	251	7243085042257953	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/OS.o	25d16c107ec2e08e
+41	241	7243085414266337	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/OS_CFG.o	453533167c87cc6f
+8	280	7243085414405983	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/main.o	b19dcab368c33dcd
+34	328	7243085415117563	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/OS.o	25d16c107ec2e08e
+24	151	7243086892502668	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/OS_CFG.o	453533167c87cc6f
+17	180	7243086892732054	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/main.o	b19dcab368c33dcd
+6	212	7243086893021285	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/ECU2_App.o	1298de9fb5ed129a
+31	275	7243086893739553	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/OS.o	25d16c107ec2e08e
+287	457	7243086895536895	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Exe/Project_ECU2.out	b6971122cf58d00
+12	248	7243088444747617	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Obj/OS_CFG.o	453533167c87cc6f
+258	355	7243088445781025	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V2/Debug/Exe/Project_ECU2.out	b6971122cf58d00
+6	90	7243456625697826	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/CAN_Cfg.o	f839b52cece89ee4
+13	106	7243456625677880	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/Det.o	f9883b803a9e1632
+9	133	7243456625887312	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/Communication.o	c61a1f23a169a8e8
+2	256	7243456627373333	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/CAN.o	db77460ada98e4c7
+116	1027	7243456635103552	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/main.o	6a40a348aca2f705
+1036	1217	7243456636964891	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/Dio.o	1e2391f1354930d
+102	1231	7243456636984846	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/LED.o	1e47721669bc0450
+144	1316	7243456637953312	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/Dio_Lcfg.o	8c96f8d4f2055917
+264	1402	7243456638262478	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/ECU2_App.o	e4d5eff59e860bc3
+1242	1428	7243456638362212	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/MSYS_cfg.o	89dfde6855f6b499
+1327	1501	7243456639843970	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/Port_Lcfg.o	614b01db6d51d405
+1409	1564	7243456640402469	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/OS_CFG.o	4e9a0b9c16118394
+1574	1689	7243456641689021	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/startup_ewarm.o	8c89400f66f96328
+1510	1716	7243456641948368	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/MSYST_Prog.o	bab9e3786a630eed
+1436	1738	7243456642197680	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/OS.o	a76157b006151241
+1227	2061	7243456645399567	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/Port.o	f06f347d3daf0d1f
+2069	2152	7243456646356953	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Exe/Project_ECU2.out	3becd3655aef8b2c
+4	312	7243496158770598	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/CAN.o	db77460ada98e4c7
+322	464	7243496160341729	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Exe/Project_ECU2.out	3becd3655aef8b2c
+2	166	7243498431999630	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/CAN.o	db77460ada98e4c7
+174	345	7243498433811729	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Exe/Project_ECU2.out	3becd3655aef8b2c
+4	327	7243502582140356	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/CAN.o	db77460ada98e4c7
+337	422	7243502583086465	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Exe/Project_ECU2.out	3becd3655aef8b2c
+2	646	7243513533304402	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/CAN.o	db77460ada98e4c7
+656	883	7243513535680268	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Exe/Project_ECU2.out	3becd3655aef8b2c
+10	279	7243541439833665	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/CAN_Cfg.o	f839b52cece89ee4
+13	288	7243541439943376	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/Communication.o	c61a1f23a169a8e8
+3	178	7243541563741068	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/CAN.o	db77460ada98e4c7
+195	289	7243541564794439	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Exe/Project_ECU2.out	3becd3655aef8b2c
+3	237	7243543106515430	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/CAN.o	db77460ada98e4c7
+262	368	7243543107871799	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Exe/Project_ECU2.out	3becd3655aef8b2c
+2	233	7243543562583757	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/CAN.o	db77460ada98e4c7
+242	337	7243543563630962	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Exe/Project_ECU2.out	3becd3655aef8b2c
+4	308	7243544555945741	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/CAN.o	db77460ada98e4c7
+318	399	7243544556873664	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Exe/Project_ECU2.out	3becd3655aef8b2c
+4	283	7243545285136078	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/CAN.o	db77460ada98e4c7
+293	385	7243545286223168	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Exe/Project_ECU2.out	3becd3655aef8b2c
+4	181	7243547203617472	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/CAN.o	db77460ada98e4c7
+192	265	7243547204495128	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Exe/Project_ECU2.out	3becd3655aef8b2c
+4	438	7243553674988943	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/CAN.o	db77460ada98e4c7
+459	606	7243553676714330	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Exe/Project_ECU2.out	3becd3655aef8b2c
+4	411	7243554533386318	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/CAN.o	db77460ada98e4c7
+432	595	7243554535221455	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Exe/Project_ECU2.out	3becd3655aef8b2c
+2	175	7243562818229269	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/CAN.o	db77460ada98e4c7
+183	510	7243562821575344	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Exe/Project_ECU2.out	3becd3655aef8b2c
+4	315	7243576242874002	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Obj/CAN.o	db77460ada98e4c7
+326	1072	7243576250463720	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V3/Debug/Exe/Project_ECU2.out	3becd3655aef8b2c
+13	467	7243691894215284	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/Det.o	17376779760da0b9
+28	556	7243691895132823	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/CAN_Cfg.o	c222a85e59cb0457
+22	672	7243691896339608	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/Communication.o	8e2016cbc9cbfc44
+486	734	7243691896718580	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/Dio.o	235796f548558cd9
+5	816	7243691897735872	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/CAN.o	65093d5f5a6fa1cf
+576	877	7243691898144771	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/ECU2_App.o	e56a3529455c94be
+692	934	7243691898822952	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/LED.o	552ec259fcdf661
+754	995	7243691899241864	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/main.o	d8fe8b20e00815e1
+837	1084	7243691900239189	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/Dio_Lcfg.o	5997609c1bc5275f
+895	1153	7243691900727897	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/OS_CFG.o	6443e83e6ca660a3
+1014	1214	7243691901765090	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/MSYS_cfg.o	5c6f287b5060c652
+1172	1326	7243691902902051	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/Port_Lcfg.o	69e0e888620cebd1
+957	1480	7243691904398046	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/MSYST_Prog.o	37efaff1ec846dab
+1231	1579	7243691905405359	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/OS.o	e9352bfa63392977
+1350	1661	7243691905594865	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/startup_ewarm.o	2ae48b04feca4d10
+1105	2760	7243691917193826	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/Port.o	c012d1e290ec5cf4
+2785	2998	7243691919447804	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Exe/Project_ECU2.out	36a0491f647c05fd
+5	407	7243692446778034	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/CAN.o	65093d5f5a6fa1cf
+427	597	7243692448662954	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Exe/Project_ECU2.out	36a0491f647c05fd
+5	468	7243709576082372	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/CAN.o	65093d5f5a6fa1cf
+482	585	7243709577289146	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Exe/Project_ECU2.out	36a0491f647c05fd
+14	329	7243726202768963	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/CAN_Cfg.o	c222a85e59cb0457
+20	402	7243726203397314	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/Communication.o	8e2016cbc9cbfc44
+18	367	7243726732492937	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/CAN_Cfg.o	c222a85e59cb0457
+26	430	7243726732991585	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/Communication.o	8e2016cbc9cbfc44
+4	391	7243727162539872	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/CAN.o	65093d5f5a6fa1cf
+404	519	7243727163836410	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Exe/Project_ECU2.out	36a0491f647c05fd
+21	125	7243731849193070	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/CAN_Cfg.o	c222a85e59cb0457
+14	154	7243731849422444	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/Communication.o	8e2016cbc9cbfc44
+5	311	7243731851008230	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/CAN.o	65093d5f5a6fa1cf
+324	457	7243731852437366	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Exe/Project_ECU2.out	36a0491f647c05fd
+22	147	7243732168419962	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/Port_Lcfg.o	69e0e888620cebd1
+5	164	7243732168419962	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/LED.o	552ec259fcdf661
+15	157	7243733780953840	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/CAN_Cfg.o	c222a85e59cb0457
+23	218	7243733781233092	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/Communication.o	8e2016cbc9cbfc44
+31	263	7243733781522326	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/LED.o	552ec259fcdf661
+177	331	7243733782709149	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/Port_Lcfg.o	69e0e888620cebd1
+6	562	7243733784913293	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/CAN.o	65093d5f5a6fa1cf
+239	1879	7243733798097998	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/Port.o	c012d1e290ec5cf4
+1898	2067	7243733799953079	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Exe/Project_ECU2.out	36a0491f647c05fd
+13	124	7243734266273981	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/CAN_Cfg.o	c222a85e59cb0457
+18	163	7243734266503359	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/Communication.o	8e2016cbc9cbfc44
+4	385	7243734268468495	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/CAN.o	65093d5f5a6fa1cf
+404	765	7243734272742592	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Exe/Project_ECU2.out	36a0491f647c05fd
+72	1856	7243744693830372	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/CAN_Cfg.o	c222a85e59cb0457
+93	2071	7243744696024491	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/Communication.o	8e2016cbc9cbfc44
+23	2231	7243744697530896	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/CAN.o	65093d5f5a6fa1cf
+2243	2402	7243744699355584	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Exe/Project_ECU2.out	36a0491f647c05fd
+62	222	7243747167866311	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/Communication.o	8e2016cbc9cbfc44
+25	700	7243747172134873	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/CAN.o	65093d5f5a6fa1cf
+723	1167	7243747177766088	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Exe/Project_ECU2.out	36a0491f647c05fd
+3	377	7243748326204679	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/CAN.o	65093d5f5a6fa1cf
+390	486	7243748327331260	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Exe/Project_ECU2.out	36a0491f647c05fd
+3	87	7243749572712377	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/main.o	d8fe8b20e00815e1
+95	189	7243749573719294	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Exe/Project_ECU2.out	36a0491f647c05fd
+2	230	7243753005627652	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Obj/CAN.o	65093d5f5a6fa1cf
+240	331	7243753006603925	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Major_Task_ECU2_V4/Debug/Exe/Project_ECU2.out	36a0491f647c05fd
+3	245	7243953301486919	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/CAN_Cfg.o	eb29d8d8f99c83d8
+53	284	7243953301631514	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/Det.o	3ebc20ab7e7f591e
+29	357	7243953301736982	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/Communication.o	99a65ce7ffc250b6
+106	414	7243953303258924	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/Dio.o	ba07af879e10c84
+160	446	7243953303268930	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/ECU2_App.o	5691640ab51c2ed5
+259	509	7243953304253032	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/Dio_Lcfg.o	3d803932416f5961
+299	566	7243953304673089	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/LED.o	6adfbe7464140370
+84	609	7243953304723082	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/CAN.o	97ca621066dfab31
+427	656	7243953304859208	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/MSYS_cfg.o	d43a35ead29a40ff
+373	695	7243953304483728	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/main.o	d2447203ee4991a7
+462	750	7243953306405929	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/Port_Lcfg.o	69719a2f8345531b
+626	810	7243953307117670	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/OS_CFG.o	4185ef6f33499ce0
+711	910	7243953308216287	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/startup_ewarm.o	99b2ea6adabb6a61
+525	949	7243953308437483	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/OS.o	554446fd6cc5e86d
+671	985	7243953308814695	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/MSYST_Prog.o	bc08b49fe807c6b0
+582	1684	7243953315998882	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/Port.o	37647e82deaec4ba
+1696	1917	7243953318402885	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Exe/Project_ECU2.out	c61c27ae99976d60
+3	485	7243957393934390	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/CAN.o	97ca621066dfab31
+497	1225	7243957401439371	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Exe/Project_ECU2.out	c61c27ae99976d60
+3	257	7243959595485807	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/CAN.o	97ca621066dfab31
+268	830	7243959601255189	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Exe/Project_ECU2.out	c61c27ae99976d60
+4	201	7243965292650109	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/CAN.o	97ca621066dfab31
+210	287	7243965293557499	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Exe/Project_ECU2.out	c61c27ae99976d60
+2	295	7243968412090234	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/CAN.o	97ca621066dfab31
+306	387	7243968413069005	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Exe/Project_ECU2.out	c61c27ae99976d60
+4	251	7243972099533366	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/Communication.o	99a65ce7ffc250b6
+263	726	7243972104329697	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Exe/Project_ECU2.out	c61c27ae99976d60
+4	299	7243978851499132	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/CAN.o	97ca621066dfab31
+308	758	7243978856173285	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Exe/Project_ECU2.out	c61c27ae99976d60
+3	123	7243980903667099	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/Communication.o	99a65ce7ffc250b6
+25	268	7243980905152455	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/CAN.o	97ca621066dfab31
+279	418	7243980906677711	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Exe/Project_ECU2.out	c61c27ae99976d60
+3	376	7243983050939805	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Obj/CAN.o	97ca621066dfab31
+388	513	7243983052379288	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 5/Major_Task_ECU2_V5/Debug/Exe/Project_ECU2.out	c61c27ae99976d60
+19	359	7243989935866641	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU2_V6/Debug/Obj/CAN_LCfg.o	99520c04906beb6f
+35	402	7243989936016645	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU2_V6/Debug/Obj/Communication.o	6814539d7cb2b781
+50	441	7243989936471740	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU2_V6/Debug/Obj/Det.o	e21e2ec165010929
+3	468	7243989936462566	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU2_V6/Debug/Obj/CAN.o	7aae068efd3c115b
+65	524	7243989937537750	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU2_V6/Debug/Obj/Dio_Lcfg.o	abf9d2c05afdc830
+412	601	7243989937574390	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU2_V6/Debug/Obj/main.o	9257eb3a4431bc22
+368	636	7243989938283434	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU2_V6/Debug/Obj/Dio.o	5ff69dc9561efe94
+451	663	7243989938505024	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU2_V6/Debug/Obj/ECU2_App.o	641fb4504a6e2ef9
+81	688	7243989937706256	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU2_V6/Debug/Obj/LED.o	8275cd3864225745
+478	732	7243989939632790	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU2_V6/Debug/Obj/Port_Lcfg.o	b8073395b88340af
+698	799	7243989940295508	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU2_V6/Debug/Obj/OS_LCFG.o	b146f3c50bb2cae3
+673	822	7243989940532052	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU2_V6/Debug/Obj/MSYS_Lcfg.o	f1a575c6fa36014
+534	860	7243989940871934	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU2_V6/Debug/Obj/MSYST_Prog.o	44490b2ca304bd5a
+743	882	7243989941037591	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU2_V6/Debug/Obj/startup_ewarm.o	ba3c0ac675564ed2
+647	953	7243989941793413	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU2_V6/Debug/Obj/OS.o	c01c8b01e50d4ace
+612	1342	7243989945674937	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU2_V6/Debug/Obj/Port.o	6a41b81e2f1c6d03
+1354	1496	7243989947295604	D:/College/Senior 2 Term 1/MCT422 Autosar Embedded/Major Task/Version 6/Major_Task_ECU2_V6/Debug/Exe/Project_ECU2.out	689fa4ad26d30a3b
+9	525	7244381779496154	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/LED.o	82076eaa9382591d
+3	575	7244381779615979	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/main.o	141b1a22e6dce349
+16	692	7244381779984872	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/Dio_Lcfg.o	a7435e4c0f536d3d
+559	877	7244381783086489	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/ECU2_App.o	1575bb22ebfc23eb
+701	1023	7244381784353134	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/Communication.o	669c3088cb8f74b9
+810	1111	7244381784702178	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/CAN_LCfg.o	a7439e852c8d6d4b
+886	1260	7244381786976184	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/Det.o	ca6672abd3164a2b
+1056	1353	7244381788003486	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/OS_LCFG.o	d0dfda1d51936436
+608	1423	7244381788581805	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/CAN.o	16d7c2aa8ec43ae3
+1435	1852	7244381792810505	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/Port_Lcfg.o	25fff34d7cf62a69
+1269	1944	7244381793608375	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/OS.o	f68f8ee2f6991036
+1362	2077	7244381795144248	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/MSYST_Prog.o	2473cb8cedf064e1
+1862	2126	7244381795942118	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/MSYS_Lcfg.o	bd95f0399b33e248
+1977	2186	7244381796720044	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/startup_ewarm.o	1a2a49d9f8e8dbfe
+1121	2578	7244381800679461	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/Port.o	1d423265f3f6696
+24	157	7244382354727387	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/Dio_Lcfg.o	a7435e4c0f536d3d
+2	191	7244382354857045	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/LED.o	82076eaa9382591d
+7	227	7244382355365676	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/Dio.o	19fc3535e2dd5706
+2	320	7244387044917593	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/ECU2_App.o	1575bb22ebfc23eb
+7	410	7244387045985199	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/CAN.o	16d7c2aa8ec43ae3
+422	671	7244387048627289	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Exe/Project_ECU2.out	ce81393b55fa6146
+10	301	7244402040073189	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/CAN_LCfg.o	a7439e852c8d6d4b
+14	373	7244402040771306	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/Communication.o	669c3088cb8f74b9
+2	440	7244402041419958	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Obj/CAN.o	16d7c2aa8ec43ae3
+448	534	7244402042386974	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/V7 (Comments+assert)/Version 7/Major_Task_ECU2_V7/Debug/Exe/Project_ECU2.out	ce81393b55fa6146
+14	135	7244573694644123	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU2_V8/Debug/Obj/CAN_LCfg.o	3fb0e917af785b07
+2	152	7244573694634138	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU2_V8/Debug/Obj/Det.o	48f0a989f42a4290
+10	191	7244573694803693	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU2_V8/Debug/Obj/Communication.o	deddb486b610b56b
+146	237	7244573695741190	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU2_V8/Debug/Obj/Dio_Lcfg.o	daba170e024fb4f0
+163	280	7244573696189990	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU2_V8/Debug/Obj/main.o	cda3270ae971485
+200	323	7244573696628835	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU2_V8/Debug/Obj/Dio.o	a9158e3571bd46bb
+245	356	7244573696808352	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU2_V8/Debug/Obj/LED.o	14306bb318a29862
+19	385	7244573696977883	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU2_V8/Debug/Obj/CAN.o	a864a36b05e5e821
+291	416	7244573697496487	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU2_V8/Debug/Obj/ECU2_App.o	9b17478c3f97af54
+333	447	7244573697875475	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU2_V8/Debug/Obj/OS_LCFG.o	861c4565df73b4e7
+364	473	7244573697965235	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU2_V8/Debug/Obj/Port_Lcfg.o	349c11ec241c77a5
+456	519	7244573698603546	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU2_V8/Debug/Obj/MSYS_Lcfg.o	7b94520a664d0d9d
+393	615	7244573699351534	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU2_V8/Debug/Obj/OS.o	fcbb65c0baff94b0
+424	645	7244573699451270	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU2_V8/Debug/Obj/MSYST_Prog.o	e6a786b51e07368d
+527	678	7244573700029721	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU2_V8/Debug/Obj/startup_ewarm.o	f71cd8e5cfbfd732
+481	1199	7244573705365457	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU2_V8/Debug/Obj/Port.o	e139630e5f00d2c0
+1209	1286	7244573706288891	D:/Ain Shams University/Senior 2/Fall 23 (Semester 1)/MCT422 Automotive Embedded Networking/Major Task/Version 8/Version 8/Major_Task_ECU2_V8/Debug/Exe/Project_ECU2.out	d2d0eaec49446804
